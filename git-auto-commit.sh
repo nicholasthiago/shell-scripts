@@ -1,5 +1,5 @@
 #!/bin/bash -exp
-#developer  : Nicholas Thiago Costa | Prometheus Systems
+#developer  : Nicholas Thiago Costa
 #created    : 06/05/2021
 
 
